@@ -1,7 +1,6 @@
-esta historia es mia y es unejemplo para git aprendiendo por la ptmr
+Master:
+    Este es mi Master, compuesto por ramas.
 
-Angel Aguilar tiene 20 años y nacio en Perusalen xd
-
-solo vivo en mi casa, aun no viajo
+	
 
 
