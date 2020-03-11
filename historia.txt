@@ -2,5 +2,6 @@ Master:
     Este es mi Master, compuesto por ramas.
 
 	
-
+	Cabecera:
+		Esta es la cabecera de mi archivo.
 
