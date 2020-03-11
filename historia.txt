@@ -11,6 +11,8 @@ Master:
         Se pueden hace mas cambios a esta rama, que al final del dia    
         será agregado a la rama master
 
+    Body:
+        Este body es para ver como se hace el merge, de forma mas ordenada.
 
     Footer:
         Footer para seguir experimentando con el comando merge
