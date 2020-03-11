@@ -2,7 +2,11 @@ Master:
     Este es mi Master, compuesto por ramas.
 
 	
-
-
     Contenido extra a la rama master para ver comos e fusiona con la rama cabecera
     solo un ejemplo.
+
+
+	Cabecera:
+		Esta es la cabecera de mi archivo.
+        Se pueden hace mas cambios a esta rama, que al final del dia    
+        será agregado a la rama master
