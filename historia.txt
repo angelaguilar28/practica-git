@@ -1,4 +1,4 @@
-Master:
+Master: 2.0
     Este es mi Master, compuesto por ramas.
 	
 	Un pequeño cambio para para ver como funciona los commits adentro del mismo Github
