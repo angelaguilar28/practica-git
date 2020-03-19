@@ -1,6 +1,7 @@
 Master:
     Este es mi Master, compuesto por ramas.
-
+	
+	Un pequeño cambio para para ver como funciona los commits adentro del mismo Github
 	
     Contenido extra a la rama master para ver comos e fusiona con la rama cabecera
     solo un ejemplo.
